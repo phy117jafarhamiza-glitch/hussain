@@ -1,0 +1,6 @@
+data/*.db
+data/models/
+data/reports/
+__pycache__/
+*.pyc
+.streamlit/
